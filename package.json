@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A utility library for managing and sorting items based on multiple criteria.",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@yehuditlnl"
+  },
   "scripts": {
     "test": "jest",
     "build": "tsc"
