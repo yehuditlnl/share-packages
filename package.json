@@ -1,8 +1,8 @@
 {
   "name": "multi-sort-manager",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A utility library for managing and sorting items based on multiple criteria.",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest",
     "build": "tsc"
