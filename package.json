@@ -1,0 +1,20 @@
+{
+  "name": "multi-sort-manager",
+  "version": "1.0.1",
+  "description": "A utility library for managing and sorting items based on multiple criteria.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "keywords": [
+    "sorting",
+    "criteria",
+    "utility"
+  ],
+  "author": "Yehudit Lanel",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
