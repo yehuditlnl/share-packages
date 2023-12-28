@@ -29,7 +29,7 @@ class SortingCriterion<T> {
    * @throws {Error} - Throws an error indicating that the method must be implemented in a derived class.
    */
   compare(a: T, b: T): number {
-    throw new Error('compare method must be implemented in derived class');
+    throw new Error("compare method must be implemented in derived class");
   }
 }
 
